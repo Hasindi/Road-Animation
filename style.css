@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+}
+
+.main-outer{
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid red;
+
+}
+
+.horizon{
+    width: 100vw;
+    height: 60vh;
+    border: inherit;
+}
